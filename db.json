@@ -4,25 +4,25 @@
             "name": "Crypto.com Coin",
             "website": "https://chain.crypto.com",
             "price": "0.1668",
-            "priceChange": "0.0269",
+            "priceChange": "0.0314",
             "priceLow": "0.1501",
-            "priceHigh": "0.1642",
-            "tradingVolume": "55,571,469.77"
+            "priceHigh": "0.1645",
+            "tradingVolume": "55,339,134.92"
         }
     },
     "Blockchains": {
         "CRO": {
             "name": "Crypto.org Chain",
             "website": "https://crypto.org/",
-            "blockHeight": "2470336",
-            "blockTime": "6191",
-            "bondedTokens": "3566889301.2478194",
+            "blockHeight": "2470404",
+            "blockTime": "6190",
+            "bondedTokens": "3566871529.176916",
             "totalAccounts": "467352",
-            "totalTx": "3806959",
-            "totalDelegators": "85832",
-            "inflationRate": "0.021340635378065454",
-            "totalSupply": "25203393766.687805",
-            "currentAvgAPY": "12.267569432606003"
+            "totalTx": "3807069",
+            "totalDelegators": "85829",
+            "inflationRate": "0.021340665057687076",
+            "totalSupply": "25203398879.78447",
+            "currentAvgAPY": "12.319256702277709"
         }
     },
     "Guilds": {

@@ -1,4 +1,4 @@
-import requests, bs4, asyncio
+import requests, bs4, asyncio, lxml
 from Resources.config import CRO_URL, YUM_URL
 from Resources.setup import BOT_TOKEN
 import discord, json, os
