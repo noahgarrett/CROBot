@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "accounts": 467298,
+    "averageBlockTime": {
+      "milliseconds": 6171,
+      "range": 1000
+    },
+    "delegators": 85788,
+    "txs": 3805084
+  },
+  "economic": {
+    "economic": {
+      "apy": 0.12194183080168879,
+      "bonded": {
+        "amount": "356683518246878707",
+        "denom": "basecro"
+      },
+      "inflation": 0.021339899507938985,
+      "supply": 25203269094.90617,
+      "usdMarketcap": 4051500875,
+      "usdPriceChange": -0.0174,
+      "usdPriceCurrent": 0.1621
+    }
+  }
+}
