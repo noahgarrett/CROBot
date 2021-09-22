@@ -3,26 +3,26 @@
         "CRO": {
             "name": "Crypto.com Coin",
             "website": "https://chain.crypto.com",
-            "price": "0.1655",
-            "priceChange": "0.0144",
+            "price": "0.1668",
+            "priceChange": "0.0269",
             "priceLow": "0.1501",
             "priceHigh": "0.1642",
-            "tradingVolume": "55,693,737.02"
+            "tradingVolume": "55,571,469.77"
         }
     },
     "Blockchains": {
         "CRO": {
             "name": "Crypto.org Chain",
             "website": "https://crypto.org/",
-            "blockHeight": "2470236",
+            "blockHeight": "2470336",
             "blockTime": "6191",
-            "bondedTokens": "3566903169.506596",
-            "totalAccounts": "467350",
-            "totalTx": "3806793",
-            "totalDelegators": "85828",
-            "inflationRate": "0.02134057652664809",
-            "totalSupply": "25203383881.391037",
-            "currentAvgAPY": "12.179408317474538"
+            "bondedTokens": "3566889301.2478194",
+            "totalAccounts": "467352",
+            "totalTx": "3806959",
+            "totalDelegators": "85832",
+            "inflationRate": "0.021340635378065454",
+            "totalSupply": "25203393766.687805",
+            "currentAvgAPY": "12.267569432606003"
         }
     },
     "Guilds": {
@@ -39,6 +39,13 @@
             "priceEmbed": "890286064470749194",
             "blockchainChannel": "888881208262537286",
             "blockchainEmbed": "890286064932106270"
+        },
+        "890291032980332557": {
+            "name": "kenikh's server",
+            "priceChannel": "890291036377743373",
+            "priceEmbed": "890291397188517958",
+            "blockchainChannel": "890291036377743373",
+            "blockchainEmbed": "890291397331144736"
         }
     }
 }
